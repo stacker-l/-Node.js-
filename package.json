@@ -1,0 +1,16 @@
+{
+  "name": "zf-reptile-node",
+  "version": "1.0.0",
+  "description": "This is a square educational administration system crawler based on node.js, but it is not suitable for every university",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stacker",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "qs": "^6.10.1"
+  }
+}
